@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Memeful</string>
+    <string name="title_activity_home">Home</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="title_activity_zoom_image">ZoomImage</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="memeful">memeful</string>
+    <string name="developed_by_owais_yosuf">Developed by: Owais Yosuf | Contact: 9149764646</string>
+    <string name="good_bye">Good Bye ! ! !</string>
+</resources>
